@@ -1,4 +1,12 @@
 # Vintage Courtyard
-## [Live site link]()
 
-This is an ecommerce site which is done by using react. Here, after items are added , the products are shown into cart with quantity and calculation. Upto 4 items of each product can be added into cart and cart can be cleared out if wanted.
+## Live site link
+(https://eclectic-marshmallow-10302b.netlify.app/)
+
+## Website details
+This is an ecommerce site which was created by using react. 
+
+-  In left section of website, products are shown with details and in right, there is a cart.
+-  After items are added , the products are shown into cart with quantity and calculation.
+-  Upto 4 items of each product can be added into cart.
+-  Cart can be cleared out by a reset button
