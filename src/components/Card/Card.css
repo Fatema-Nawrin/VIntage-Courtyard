@@ -1,0 +1,38 @@
+.product{
+    width: 270px;
+    height: 480px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 0 20px  rgba(255, 202, 186, 0.904);
+    font-family: 'Roboto', sans-serif;
+}
+.product img{
+    width: 250px;
+    height: 300px;
+    border-radius: 8px;
+    margin: 10px;
+} 
+.product-info{
+    margin: 0 1rem;
+}
+.btn{
+    background-color: darkred;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding:10px 15px;
+}
+.btn p{
+    margin-right: 0.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.btn:hover{
+    background-color:  white;
+    border: 2px solid darkred;
+    color:black;
+}

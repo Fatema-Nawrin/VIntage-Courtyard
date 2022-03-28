@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Mystique Shirts",
+        "price": 750,
+        "img": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHZpbnRhZ2UlMjBjbG90aGVzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 10
+    },
+    {
+        "id": "2",
+        "name": "Vintage Camera",
+        "price": 925,
+        "img": "https://images.unsplash.com/photo-1603184405646-675813c6b7db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHZpbnRhZ2UlMjBjYW1lcmF8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 17
+    },
+    {
+        "id": "3",
+        "name": "Rare collection books",
+        "price": 455,
+        "img": "https://images.unsplash.com/photo-1556566952-11eff3d06ed4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHZpbnRhZ2UlMjBwYXBlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 14
+    },
+    {
+        "id": "4",
+        "name": "1965 typewriter",
+        "price": 1200,
+        "img": "https://images.unsplash.com/photo-1577382976743-eb8b6fc2f559?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHZpbnRhZ2UlMjBwYXBlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 20
+    },
+    {
+        "id": "5",
+        "name": "Intense Eau De Parfum",
+        "price": 845,
+        "img": "https://images.unsplash.com/photo-1580216022758-a39061644a91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHZpbnRhZ2UlMjBwZXJmdW1lfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 10
+    },
+    {
+        "id": "6",
+        "name": "Vintage Handclock",
+        "price": 500,
+        "img": "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHZpbnRhZ2UlMjBwZXJmdW1lfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 10
+    },
+    {
+        "id": "7",
+        "name": "Illicit Flower",
+        "price": 1127,
+        "img": "https://images.unsplash.com/photo-1602261036425-9bb62da15969?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGlwc3RpY2tzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 12
+    },
+    {
+        "id": "8",
+        "name": "Classic Telephone",
+        "price": 649,
+        "img": "https://images.unsplash.com/photo-1597919304146-a8a81c30d502?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fHJldHJvJTIwb2JqZWN0fGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 15
+    },
+    {
+        "id": "9",
+        "name": "Motorbike",
+        "price": 1045,
+        "img": "https://images.unsplash.com/photo-1516423485787-e433022a4801?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fHZpbnRhZ2UlMjBwZXJmdW1lfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 25
+    },
+    {
+        "id": "10",
+        "name": "Pearl Elixir",
+        "price": 1045,
+        "img": "https://images.unsplash.com/photo-1608547000023-74beb9fe563a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHZpbnRhZ2UlMjBjbG90aGVzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 15
+    },
+    {
+        "id": "11",
+        "name": "Vintage Bookshelf",
+        "price": 1045,
+        "img": "https://images.unsplash.com/photo-1511721511189-ca0a98b3229e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fHZpbnRhZ2UlMjBwYXBlcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+        "quantity": 0,
+        "shipping": 12
+    },
+    {
+        "id": "12",
+        "name": "Vintage Car",
+        "price": 1045,
+        "img": "https://images.unsplash.com/photo-1536168483275-f5736f5c844b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "quantity": 0,
+        "shipping": 30
+    }
+]
