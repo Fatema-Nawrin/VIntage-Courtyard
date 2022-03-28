@@ -31,7 +31,7 @@ const Cart = (props) => {
                     </div>))
             }
 
-            <button className='cart-btn' onClick={chooseOne}>Choose One For Me</button>
+            {/* <button className='cart-btn' onClick={chooseOne}>Choose One For Me</button> */}
             <br />
             <button className='cart-btn' onClick={reset}>Reset</button>
 
