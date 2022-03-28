@@ -1,7 +1,7 @@
 # Vintage Courtyard
 
 ## Live site link
-(https://eclectic-marshmallow-10302b.netlify.app/)
+https://eclectic-marshmallow-10302b.netlify.app/
 
 ## Website details
 This is an ecommerce site which was created by using react. 
