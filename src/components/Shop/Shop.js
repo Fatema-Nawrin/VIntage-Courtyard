@@ -27,7 +27,7 @@ const Shop = () => {
             else {
                 exist.quantity = exist.quantity + 1;
                 const rest = cart.filter(product => product.id !== selectedProduct.id)
-                newCart = [...rest, exist]
+                newCart = [...rest, selectedProduct]
             }
             setCart(newCart);
         }
@@ -49,8 +49,10 @@ const Shop = () => {
 
     const [item, setItem] = useState([])
     const chooseOne = () => {
-        let choosenProduct = cart[Math.floor(Math.random() * cart.length)]
-        setItem(choosenProduct);
+        if (cart.length > 0) {
+            let choosenProduct = cart[Math.floor(Math.random() * cart.length)]
+            setItem(choosenProduct);
+        }
     };
 
     const reset = () => {

@@ -8,26 +8,41 @@
     gap: 1rem;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1200px) {
     .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .products-container{
         display: grid;
-        grid-template-columns: none;
+        grid-template-columns:repeat(3,1fr);
+        gap: 2rem;
+        justify-items: center;
+        /* order:2; */
+    } 
+}
+@media screen and (max-width: 930px) {
+    .container{
+        display: flex;
+        flex-direction: column;
     }
     .products-container{
         display: grid;
         grid-template-columns:repeat(2,1fr);
         gap: 2rem;
         justify-items: center;
+        /* order:2; */
     } 
 }
-@media screen and (max-width: 688px) {
+@media screen and (max-width: 630px) {
     .container{
-        display: grid;
-        grid-template-columns: none;
+        display: flex;
+        flex-direction: column;
     }
     .products-container{
         display: grid;
         grid-template-columns:none;
         justify-content: center;
+        /* order: 2; */
     } 
 }

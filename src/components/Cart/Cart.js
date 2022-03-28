@@ -19,7 +19,6 @@ const Cart = (props) => {
     return (
         <div className='cart'>
             <h2>Selected Products</h2>
-
             {
                 cart.map(product => (
                     <div key={product.id} className='cart-list'>
@@ -30,8 +29,8 @@ const Cart = (props) => {
                             <FontAwesomeIcon icon={faCircleMinus}></FontAwesomeIcon></button>
                     </div>))
             }
-
-            {/* <button className='cart-btn' onClick={chooseOne}>Choose One For Me</button> */}
+            <p>We can choose one item from cart for you incase you are confused about what to buy among all these amazing products.</p>
+            <button className='cart-btn' onClick={chooseOne}>Choose One For Me</button>
             <br />
             <button className='cart-btn' onClick={reset}>Reset</button>
 
