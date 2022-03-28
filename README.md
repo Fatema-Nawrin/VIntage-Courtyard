@@ -9,4 +9,7 @@ This is an ecommerce site which was created by using react.
 -  In left section of website, products are shown with details and in right, there is a cart.
 -  After items are added , the products are shown into cart with quantity and calculation.
 -  Upto 4 items of each product can be added into cart.
--  Cart can be cleared out by a reset button
+-  Cart can be cleared out by a reset button.
+-  Random product from cart can be chosen by a button.
+-  Localstorage data is synced with UI, so refreshing page does not
+remove items from cart.
